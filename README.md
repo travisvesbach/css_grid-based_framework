@@ -1,4 +1,4 @@
-#CSS grid-based framework
+# CSS grid-based framework
 
 This simple framework has a css reset, a grid system for 12 different column widths, 4 different grid sizes (xs, sm, md, lg) that respond depending on the browser resolution, and a couple other basic settings for a navbar, buttons, and links. 
 
